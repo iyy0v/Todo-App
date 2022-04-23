@@ -1,0 +1,14 @@
+#todo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    color: rgb(60, 30, 230);
+    
+}
+#todo p {
+    display: inline;
+    max-width: 300px;
+}
+.todoBox {
+    height: 20px;
+    width: 20px;
+}
